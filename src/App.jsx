@@ -8,15 +8,15 @@ import { Actions } from './pages/Actions'
 export const App = () => {
   return (
     <React.Fragment>
-      <Navbar />
+      {/* <Navbar />
       <main>
         <Cart />
-        <section>
+        <section> */}
           <Menu />
-          <Actions />
+          {/* <Actions />
         </section>
       </main>
-      <Footer />
+      <Footer /> */}
     </React.Fragment>
   )
 }
